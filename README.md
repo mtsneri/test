@@ -5,7 +5,3 @@
 1. Pushing
 
 2. Pulling
-
-3. Verifying History
-
-4. Forcing conflict
