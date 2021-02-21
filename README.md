@@ -5,3 +5,5 @@
 1. Pushing
 
 2. Pulling
+
+3. Verifying History
